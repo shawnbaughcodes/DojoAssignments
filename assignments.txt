@@ -1,0 +1,31 @@
+WebFundamentals	Ruby		Python		Mean
+Shawns-MacBook-Pro:DojoAssignments shawnbaughcreatives$ ls -R
+Mean		Python		Ruby		WebFundamentals
+
+./Mean:
+about.txt
+
+./Python:
+about.txt
+
+./Ruby:
+about.txt
+
+./WebFundamentals:
+CSS		Git		HTML		JavaScript	about.txt
+
+./WebFundamentals/CSS:
+about.txt
+
+./WebFundamentals/Git:
+about.txt	new_project
+
+./WebFundamentals/Git/new_project:
+aboutMe.txt
+
+./WebFundamentals/HTML:
+about.txt		indentation.html
+
+./WebFundamentals/JavaScript:
+about.txt
+Shawns-MacBook-Pro:DojoAssignments shawnbaughcreatives$ 
